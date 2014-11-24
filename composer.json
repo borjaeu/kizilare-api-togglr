@@ -1,0 +1,16 @@
+{
+    "name": "kizilare/api/togglr",
+    "type": "library",
+    "description": "Togglr API libray",
+    "homepage": "http://kizilare.net",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Kizilare\\Api\\Togglr": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
